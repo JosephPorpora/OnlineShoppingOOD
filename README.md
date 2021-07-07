@@ -8,6 +8,6 @@ The items of clothing present in my online store are shirts, socks, sweatshirts,
 To "purchase" items, Cart.java was made using the Decorator pattern to handle all purchases. The decorator pattern was used as the order of produts added to cart is irrelevant, so adding different items to the cart in any arbitrary order can be seen as "decorating" the cart with clothes. 
 
 
-To run the code, download the repository and run the OnlineBookstore.java file. OnlineBookstore contains code which populates the store stock with some sample items of clothing, then attempts to purchase from the stock. 
+To run the code, download the repository and run the OnlineBookstore.java file. OnlineBookstore is the driver file and contains code which populates the store stock with some sample items of clothing, then attempts to purchase from the store. 
 
 More information can be found on my website, josephporpora.com.
